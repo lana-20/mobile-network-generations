@@ -34,8 +34,11 @@ As an SDET, when I think about transitioning or testing my app and addressing an
 
 <img width="600" src="https://user-images.githubusercontent.com/70295997/217128913-3d7b014d-4112-4364-9886-23809d841cc1.png">
 
-1. It's app dependant: If I am in a specific vertical, I have my own considerations. But the generic testing considerations, on top of the app dependant functionality, are the following.
-2. MAke sure my app is compatible with 5G, 4G or older network generations.
-
+1. **It's app dependant**: If I am in a specific vertical, I have my own considerations. But the generic testing considerations, on top of the app dependant functionality, are captured in the following points.
+2. **Compatibility (5G, 4G, Older)**: Make sure my app is compatible with 5G, 4G or older network generations. It's important because not the entire world is 5G ready. There are different areas, even in the U.S. as well as different countries in the world, that haven't adopted 5G to a full scale. This means I have a lot of users still running on the older network configurations. I want to make sure that the app operates well acroos all these networks. 
+If I have a specific feature that is 5G related, I want to make sure that is not causing any poor user experience when running on 4G or when moving from 5G to 4G or to WiFi.
+3. **Interoperability (App Architecture)**: ...
+4. **Security (Multi-Channels)**: ...
+5. **Coverage and Locations**: ...
 
 
