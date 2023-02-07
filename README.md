@@ -30,5 +30,12 @@ For SDETs and DevOps, the challenges of 5G include compatibility with older devi
 
 5G presents opportunities for app developers to create new UIs with richer functionality, but DevOps will need to use AI/ML algorithms for continuous improvement. 5G is also a key enabler for IoT, as it can support a large number of devices with longer battery life and real-time communication.
 
+As an SDET, when I think about transitioning or testing my app and addressing any ditigal challenges I have in the 5G, there are the key points which I consider on a high level.
+
 <img width="600" src="https://user-images.githubusercontent.com/70295997/217128913-3d7b014d-4112-4364-9886-23809d841cc1.png">
+
+1. It's app dependant: If I am in a specific vertical, I have my own considerations. But the generic testing considerations, on top of the app dependant functionality, are the following.
+2. MAke sure my app is compatible with 5G, 4G or older network generations.
+
+
 
