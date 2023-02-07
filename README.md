@@ -37,8 +37,10 @@ As an SDET, when I think about transitioning or testing my app and addressing an
 1. **It's app dependant**: If I am in a specific vertical, I have my own considerations. But the generic testing considerations, on top of the app dependant functionality, are captured in the following points.
 2. **Compatibility (5G, 4G, Older)**: Make sure my app is compatible with 5G, 4G or older network generations. It's important because not the entire world is 5G ready. There are different areas, even in the U.S. as well as different countries in the world, that haven't adopted 5G to a full scale. This means I have a lot of users still running on the older network configurations. I want to make sure that the app operates well acroos all these networks. 
 If I have a specific feature that is 5G related, I want to make sure that is not causing any poor user experience when running on 4G or when moving from 5G to 4G or to WiFi.
-3. **Interoperability (App Architecture)**: ...
-4. **Security (Multi-Channels)**: ...
-5. **Coverage and Locations**: ...
+3. **Interoperability (App Architecture)**: I must be aware of the architecture to know what needs to happen with the app to make it fully ready to work across all the different 5G use cases, locations, and devices.
+4. **Security (Multi-Channels)**: 5G already enables apps to communicate across different channels, cities, IoT, NFC devices, cars, etc. This means that my app, which stores a lot of sensitive data, actually transmits this data across multiple channels towards multiple physical devices that I don't really control. I want to make sure that I have a good security layer and monitor the app behavior in order to avoid anything in danger.
+5. **Coverage and Locations**: Not all the geographies fully support 5G. And in different geogrpahies, I see different smartphones and tablets, some of which support 5G and some don't. I want to have a good geo map coverage mapping that allows me to fully release the app confidently, knowing that it runs in 5G, 4G across different geographies where my users use the app. This gives me the peace of mind heading towards the future.
+
+Wrap-Up: 5G is here, it well adopted. A lot of app devs and testers today already look into multiple use cases, verifying that my the existing app can reach the users and delight them with the high user experience. As an SDET, I want to make sure that my app is ready for 5G, as well as make sure that it's well tested with high quality goals.
 
 
