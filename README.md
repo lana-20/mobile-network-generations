@@ -1,4 +1,4 @@
-# mobile-network-standards
+# Mobile phones have been evolving, along with the respective cellular networks, bandwidths and protocols. 
 
 * [List of mobile phone generations](https://en.wikipedia.org/wiki/List_of_mobile_phone_generations)
 
