@@ -30,6 +30,5 @@ For SDETs and DevOps, the challenges of 5G include compatibility with older devi
 
 5G presents opportunities for app developers to create new UIs with richer functionality, but DevOps will need to use AI/ML algorithms for continuous improvement. 5G is also a key enabler for IoT, as it can support a large number of devices with longer battery life and real-time communication.
 
-<img width="660" src="https://user-images.githubusercontent.com/70295997/217128750-9a166b03-38f5-43c3-974e-929e4be59933.png">
-
+<img width="600" src="https://user-images.githubusercontent.com/70295997/217128913-3d7b014d-4112-4364-9886-23809d841cc1.png">
 
